@@ -1,0 +1,18 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# Raw acquisition data & generated reports (large, run-specific)
+daq_data_*.csv
+*_fatigue_report.png
+combined_fatigue_summary.png
+
+# OS / editor cruft
+.DS_Store
+.vscode/
+.idea/
+
+# Virtual environments
+venv/
+.venv/
+env/
