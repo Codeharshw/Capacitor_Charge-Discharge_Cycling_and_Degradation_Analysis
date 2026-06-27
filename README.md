@@ -1,4 +1,4 @@
-# Capacitor Charge–Discharge Cycling & Degradation Analysis
+# Capacitor_Charge–Discharge_Cycling_and_Degradation_Analysis
 
 Sensorless capacitor fatigue / Remaining-Useful-Life (RUL) monitoring.
 A programmable PSU and NI-DAQ cycle a capacitor through repeated charge/discharge;
